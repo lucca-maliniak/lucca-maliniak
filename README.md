@@ -6,14 +6,15 @@
     </h1>
 </div>
 <div>
-    <p>💼 Atualmente trabalho como desenvolvedor pela SM2.</p>
-    <p>📚 Estou cursando Sistemas da Informação na Newton Paiva</p>
-    <p>❤️ Apaixonado por Desenvolvimento Web</p> 
-    <p>💻 Atualmente estou utilizando tecnologias como React, Typescript, Tailwindcss.</p>
+    <p>💼 Atualmente trabalho como desenvolvedor pela SM2.
+    <p>📚 Estou cursando Sistemas da Informação na Newton Paiva.
+    <p>❤️ Apaixonado por Desenvolvimento Web. 
+    <p>💻 Atualmente estou utilizando tecnologias como React, Typescript, Tailwindcss.
 </div>
 
+
 <div align="center">
-  <a href="https://github.com/lucca-maliniak">
+  <p><a href="https://github.com/lucca-maliniak">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucca-maliniak&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucca-maliniak&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
