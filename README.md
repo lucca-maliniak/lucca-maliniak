@@ -1,9 +1,10 @@
-### Olá! Seja bem-vindo ao meu perfil.
 
-<h1 align="center">
-    Eu sou o 
-<a href="https://www.linkedin.com/in/lucca-maliniak-974bb3203/">Lucca Maliniak </a>
-</h1>
+<div align="center">
+    <h1 align="center">
+        Olá, tudo bem? Eu sou o 
+    <a href="https://www.linkedin.com/in/lucca-maliniak-974bb3203/">Lucca Maliniak </a>
+    </h1>
+</div>
 
 <div align="center">
   <a href="https://github.com/lucca-maliniak">
