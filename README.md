@@ -9,7 +9,7 @@
     <p>💼 Atualmente trabalho como desenvolvedor pela SM2.
     <p>📚 Estou cursando Sistemas da Informação na Newton Paiva.
     <p>❤️ Apaixonado por Desenvolvimento Web. 
-    <p>💻 Atualmente estou utilizando tecnologias como React, Typescript, Tailwindcss.
+    <p>💻 Atualmente estou utilizando tecnologias como React, Angular, Typescript, Tailwindcss.
 </div>
 
 
