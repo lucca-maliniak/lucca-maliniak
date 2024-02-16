@@ -2,7 +2,7 @@
 <div align="center">
     <h1 align="center">
         Olá, tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/lucca-maliniak-974bb3203/">Lucca Maliniak </a>👋
+    <a href="https://www.linkedin.com/in/lucca-maliniak-974bb3203/" target="_blank">Lucca Maliniak </a>👋
     </h1>
 </div>
 <div>
