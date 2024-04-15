@@ -27,7 +27,7 @@
   <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="React.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="VueJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="C#" height="40" width="40" src="https://github.com/joaopauloaramuni/joaopauloaramuni/raw/main/img/csharp.png?raw=true">
+  <img align="center" alt="C#" height="30" width="20" src="https://github.com/joaopauloaramuni/joaopauloaramuni/raw/main/img/csharp.png?raw=true">
   <img align="center" alt="TailwindCSS" height="30" width="40" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-512x307-1v56l8ed.png">
   <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
